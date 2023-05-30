@@ -26,7 +26,7 @@ currently part of a team that specializes in delivering high quality front-end s
 ![ChakraUI](https://img.shields.io/badge/-ChakraUI-05122A?style=flat&logo=chakra-ui)&nbsp;
 ![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui)&nbsp;
 
-## 🛠 &nbsp;Tech Study Stack - 2022
+## 🛠 &nbsp;Tech Study Stack - 2023
 
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
