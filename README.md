@@ -31,12 +31,6 @@ Graduated in Computer Science at Univem and Bootcamps at RocketSeat.
 ![ChakraUI](https://img.shields.io/badge/-ChakraUI-05122A?style=flat&logo=chakra-ui)&nbsp;
 ![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui)&nbsp;
 
-## 🛠 &nbsp;Tech Study Stack - 2023
-
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Elixir](https://img.shields.io/badge/-Elixir-05122A?style=flat&logo=elixir)&nbsp;
-
 <!--
 **YagoVela/yagovela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
