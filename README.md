@@ -5,8 +5,13 @@ Front-end developer
 [![Linkedin Badge](https://img.shields.io/badge/-Yago%20Vela-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yagovela/)](https://www.linkedin.com/in/yagovela/) 
 [![Gmail Badge](https://img.shields.io/badge/-yagovela@outlook.com-0A66C2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yagovela@outlook.com)](mailto:yagovela@outlook.com)
 
-Hello, I'm yago, graduated in computer science and 
-currently part of a team that specializes in delivering high quality front-end solutions.
+Hey 👋🏻 call me Yago.
+
+I've been a software developer since 2019, specializing in FrontEnd, and with studies and experiences in BackEnd and Mobile. I have experience in Node JS, JavaScript, TypeScript, React JS, Next JS and React Native. I currently work as a FrontEnd Developer.
+
+Fascinated by technology, I always seek to be up to date with the most modern tools and practices on the market.
+
+Graduated in Computer Science at Univem and Bootcamps at RocketSeat.
 
 ## 🛠 &nbsp;Tech Stack
 
