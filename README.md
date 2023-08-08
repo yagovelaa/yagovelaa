@@ -2,8 +2,8 @@
 
 Front-end developer
 
-[![Linkedin Badge](https://img.shields.io/badge/-Yago%20Vela-89F279?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yagovela/)](https://www.linkedin.com/in/yagovela/) 
-[![Gmail Badge](https://img.shields.io/badge/-yagovela@outlook.com-89F279?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yagovela@outlook.com)](mailto:yagovela@outlook.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Yago%20Vela-038C33?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yagovela/)](https://www.linkedin.com/in/yagovela/) 
+[![Gmail Badge](https://img.shields.io/badge/-yagovela@outlook.com-038C33?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yagovela@outlook.com)](mailto:yagovela@outlook.com)
 
 Hey 👋🏻 call me Yago.
 
@@ -21,15 +21,9 @@ Graduated in Computer Science at Univem and Bootcamps at RocketSeat.
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![TypeScript](https://camo.githubusercontent.com/b0e44bc96beda5d2ec052a75693621a51ed9537ff291234a6f429b33c4c52ef7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3035313232413f7374796c653d666c6174266c6f676f3d54797065536372697074)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=Mysql)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-![ChakraUI](https://img.shields.io/badge/-ChakraUI-05122A?style=flat&logo=chakra-ui)&nbsp;
-![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui)&nbsp;
+
 
 <!--
 **YagoVela/yagovela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
