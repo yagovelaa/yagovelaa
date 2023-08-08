@@ -2,8 +2,8 @@
 
 Front-end developer
 
-[![Linkedin Badge](https://img.shields.io/badge/-Yago%20Vela-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yagovela/)](https://www.linkedin.com/in/yagovela/) 
-[![Gmail Badge](https://img.shields.io/badge/-yagovela@outlook.com-0A66C2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yagovela@outlook.com)](mailto:yagovela@outlook.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Yago%20Vela-89F279?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yagovela/)](https://www.linkedin.com/in/yagovela/) 
+[![Gmail Badge](https://img.shields.io/badge/-yagovela@outlook.com-89F279?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yagovela@outlook.com)](mailto:yagovela@outlook.com)
 
 Hey 👋🏻 call me Yago.
 
